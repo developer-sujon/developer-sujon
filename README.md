@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/devoloper-sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devoloper-sujon" height="30" width="40" /></a>
-<a href="https://www.facebook.com/developers.sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devoloper-sujon" height="30" width="40" /></a>
-<a href="https://medium.com/@devoloper.sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devoloper.sujon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devoloper_sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="devoloper_sujon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/developer.sujonbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devoloper-sujon" height="30" width="40" /></a>
+<a href="https://medium.com/@developer.sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devoloper.sujon" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/developer_sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="devoloper_sujon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
