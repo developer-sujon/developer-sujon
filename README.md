@@ -1,4 +1,4 @@
-<div><img src="https://i.ibb.co/bQrJQtc/Mohammad-Sujon-Cover.jpg" alt="Mohammad-Sujon-Cover" style="object-fit: scale-down; width: 100%;"></div>
+<div><img src="https://i.ibb.co/bQrJQtc/Mohammad-Sujon-Cover.jpg" alt="Mohammad-Sujon-Cover" ></div>
 
 <h1 align="center">Hi 👋, I'm Mohammad Sujon</h1>
 <h3 align="center">A passionate MERN Stack  Developer from Bangladesh</h3>
