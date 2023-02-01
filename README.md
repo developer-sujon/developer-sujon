@@ -16,45 +16,11 @@
 ## Current Tech Stack
 
 ```js
-//script.js start
-class GithubUser {
-    constructor(name, languages, technologies, occupation, location) {
-        this.name = name
-        this.languages = languages
-        this.technologies = technologies
-        this.occupation = occupation
-        this.location = location
-    }
-    const sayHello = () => {
-        console.log(`Hello world! I'm ${this.name}. A ${this.occupation} based 
-        in ${this.location}. Currently, I'm learning ${this.technologies.frontend.js[0]} 
-        with ${this.languages[1]}.`)
-    }
+{
+  programmingLanguages: ['JavaScript', 'TypeScript'],
+  frameworks: ['React', 'Reudx', 'Express', 'NestJS'],
+  database: ['Mongodb']
 }
-
-const name = "Md Zaid Siddiqui"
-let interests = ["Web Front-end", "Graphic Design", "Open-Source", "Astronomy"]
-let languages = ["Python", "Typescript", "Javascript", "Java"]
-let technologies = {
-    frontend: {
-        js: ["Reactjs", "Nextjs"],
-        css: ["Tailwind", "Styled-Components", "MaterialUI", "Bootstrap"]
-    },
-    backend: {
-        python: ["django", "FastAPI"]
-    },
-    misc: ["Linux", "git", "github", "VSCode", "Photoshop", "Illustrator"]
-}
-
-const Zaid = new GitHubUser(
-                name, 
-                languages,
-                technologies, 
-                "CS UnderGrad and junior React developer", 
-                "Kolkata, India"
-                )
-Zaid.sayHello()
-//script.js end
 ```
 
 <h3 align="left">Connect with me:</h3>
