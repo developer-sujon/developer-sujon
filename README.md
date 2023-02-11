@@ -1,38 +1,73 @@
-<h1 align="center">Hi 👋, I'm Mohammad Sujon</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<!--
+[website]: https://devsujon.com
+[linkedin]: https://www.linkedin.com/in/developer-sujon
+[facebook]: https://www.facebook.com/sujon.developer
+[twitter]: https://twitter.com/developer-sujon
+[leetcode]: https://leetcode.com/developer-sujon
+[email]: devoloper.sujon@gmail.com -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="developer-sujon" /> </p>
+### Hi there 👋!
 
+#### Who I am?
+
+- A Full-Stack Developer based in **[Meherpur](https://en.wikipedia.org/wiki/Meherpur_District), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
+- Have 1 years of hands-on experience in **FullStack Development, Jacascript ecosystem.**
+- Visit my portfolio at **https://devsujon.com**
+
+#### What I'm doing?
+
+- 🌱 Writing `JavaScript`.
+- 📫 Mostly active on <a href="https://www.linkedin.com/in/developer-sujon"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 🔭 I’m currently working on [shunnoit](https://shunnoit.com)
 
-- 🌱 I’m currently learning **Javascript from [Javascript.com](https://www.javascript.com/)**
+#### What I like to discuss about?
 
-- 👨‍💻 All of my projects are available at [https://github.com/developer-sujon](https://github.com/developer-sujon)
+- 💬 Ask me about `Javascript` `Node.js` `Nest.js` `React.js` `Mongodb` and `PostgreSQL`.
 
-- 💬 Ask me about **JavaScript, TypeScript, React**
+#### What my skill set looks like?
 
-- 📫 How to reach me **devoloper.sujon@gmail.com**
+- 🖥 **Front-end:**
 
-## Current Tech Stack
+  - **Languages:** `JavaScript`
+  - **Frameworks:** `React.js` • `Next.js` • `Redux` • `RTK Query`
+  - **UI Toolkit:** `Tailwind` • `Bootstrap` • `Daisy Ui`
 
-```js
-{
-  programmingLanguages: ['JavaScript', 'TypeScript'],
-  frameworks: ['React', 'Reudx', 'Express', 'NestJS'],
-  database: ['Mongodb']
-}
-```
+- 🗄️ **Back-end:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/devoloper-sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devoloper-sujon" height="30" width="40" /></a>
-<a href="https://www.facebook.com/developer.sujonbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devoloper-sujon" height="30" width="40" /></a>
-<a href="https://medium.com/@developer.sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devoloper.sujon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/developer_sujon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="devoloper_sujon" height="30" width="40" /></a>
+  - **Languages:** `Javascript` • `Typescript`
+  - **Frameworks:** `Nest.js` • `Express.js`
+  - **Databases:** `MongoDB` • `PostgreSQL`
+
+- 🎡 **Software development ecosystem:**
+
+  - **Tools::** `Git` • `AWS` • `Docker` • `Kubernetes` • `Nginx`
+  - **Test:** `Apache` • `Jmeter`• `Unit Test`
+  - **Project management:** `Notion` • `Jira` • `Trello`
+
+<!--Github Stats-->
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=developer-sujon" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-sujon"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> </a> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+#### How to get in touch with me?
 
+<p left="center">
+<a href="https://www.linkedin.com/in/developer-sujon/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/developer-sujon/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="https://leetcode.com/developer-sujon">
+  <img src="https://camo.githubusercontent.com/3c610fbb56cb54a4720f012dc4625f721ca5afbdecc30dd1f3380edb2f4fe571/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c656574436f646526636f6c6f723d323232323232266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d464641313136266c6162656c3d" height=25>
+</a> 
+<a href="mailto:devoloper.sujon@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
 
-### &rarr; [More about me](https://www.sujon.one)
+<br/>
+<!-- GitHub Profile Views Counter -->
+
+![](https://komarev.com/ghpvc/?username=developer-sujon)
