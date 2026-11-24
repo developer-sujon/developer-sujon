@@ -1,5 +1,5 @@
 <!--
-[website]: https://devsujon.com
+[website]: https://developer-sujon.github.io
 [linkedin]: https://www.linkedin.com/in/developer-sujon
 [facebook]: https://www.facebook.com/sujon.developer
 [twitter]: https://twitter.com/developer-sujon
@@ -10,15 +10,15 @@
 
 #### Who I am?
 
-- A Full-Stack Developer based in **[Meherpur](https://en.wikipedia.org/wiki/Meherpur_District), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
+- A Full-Stack Developer based in **[Rajshahi](https://en.wikipedia.org/wiki/Rajshahi_District), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 - Have 1 years of hands-on experience in **FullStack Development, Jacascript ecosystem.**
-- Visit my portfolio at **https://devsujon.com**
+- Visit my portfolio at **https://developer-sujon.github.io**
 
 #### What I'm doing?
 
 - 🌱 Writing `JavaScript`.
-- 📫 Mostly active on <a href="https://www.linkedin.com/in/developer-sujon"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
-- 🔭 I’m currently working on [shunnoit](https://shunnoit.com)
+- 📫 Mostly active on <a href="https://www.linkedin.com/in/muhammadsujon"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
+- 🔭 I’m currently working on [yupsis](https://yupsis.com)
 
 #### What I like to discuss about?
 
